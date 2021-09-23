@@ -19,7 +19,7 @@
 | ----------- | ----------- | ----------- |
 | Processor | Intel Core i3 7100U Kabylake | Working |
 | Chipset | Intel Kabylake-U | Working |
-| RAM | 4GB DDR4 Onboard PC 17000 (2133 Mhz) | Working |
+| RAM | 4GB DDR4 Onboard PC 17000 (2133 Mhz) + 8GB DDR4 Corsair PC 17000 (2133 Mhz) | Working |
 | IGPU | Intel HD Graphics 620 | Working |
 | Storage | 1x Seagate HDD 500GB + 1x Samsung EVO 870 SSD SATA 500GB | Working |
 | Wifi | Qualcomm Atheros AR956x + Bluetooth | Working But Indicator Still One Bar Overall Its Better For Me|
